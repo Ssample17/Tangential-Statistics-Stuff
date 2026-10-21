@@ -1,6 +1,6 @@
 import numpy as np
 
-def fib(n: int) -> int:
+def fib(n):
     '''
     Test function to compute the nth Fibonacci number using matrix exponentiation.
     '''
