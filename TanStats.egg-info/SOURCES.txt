@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-TanStats/__init__.py
-TanStats/fib.py
-TanStats.egg-info/PKG-INFO
-TanStats.egg-info/SOURCES.txt
-TanStats.egg-info/dependency_links.txt
-TanStats.egg-info/requires.txt
-TanStats.egg-info/top_level.txt
