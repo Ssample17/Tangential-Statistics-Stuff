@@ -2,7 +2,7 @@ import numpy as np
 
 def fib(n):
     '''
-    Test function to compute the nth Fibonacci number using matrix exponentiation.
+    Test function to compute the nth Fibonacci number using matrix multiplication.
     '''
     f = np.matrix([[1, 1], [1, 0]])
     if not isinstance(n, int):
